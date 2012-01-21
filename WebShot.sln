@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ABB00EED-447B-46F1-BBB9-009154AFE016}"
+	ProjectSection(SolutionItems) = preProject
+		WebShot.vsmdi = WebShot.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShot", "WebShot\WebShot.csproj", "{5A4B37CD-4A2C-470C-B6CB-D422F068AEDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShotTestSite", "WebShotTestSite\WebShotTestSite.csproj", "{F4CF0EAE-A966-47A6-B2D4-932B29F1A601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShotImageWebControl", "WebShotImageWebControl\WebShotImageWebControl.csproj", "{608DA1D9-9C72-4093-A365-FD7FE17C0F13}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = WebShot.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4B37CD-4A2C-470C-B6CB-D422F068AEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4B37CD-4A2C-470C-B6CB-D422F068AEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4B37CD-4A2C-470C-B6CB-D422F068AEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4B37CD-4A2C-470C-B6CB-D422F068AEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CF0EAE-A966-47A6-B2D4-932B29F1A601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CF0EAE-A966-47A6-B2D4-932B29F1A601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CF0EAE-A966-47A6-B2D4-932B29F1A601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CF0EAE-A966-47A6-B2D4-932B29F1A601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608DA1D9-9C72-4093-A365-FD7FE17C0F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608DA1D9-9C72-4093-A365-FD7FE17C0F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608DA1D9-9C72-4093-A365-FD7FE17C0F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608DA1D9-9C72-4093-A365-FD7FE17C0F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = 
+	EndGlobalSection
+EndGlobal
