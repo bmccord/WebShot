@@ -16,7 +16,6 @@ namespace Julian.Imaging
 
     /// <summary>
     /// Enables the user to capture Web Site images.
-    /// testing git again
     /// </summary>
     public class WebShot : IDisposable
     {
